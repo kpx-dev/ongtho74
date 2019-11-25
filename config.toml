@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ong Tho 74"
+theme = "dream"
+publishDir = "docs"
