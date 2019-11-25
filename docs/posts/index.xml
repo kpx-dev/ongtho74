@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ong Tho 74</title>
-    <link>http://ongtho74.com/</link>
-    <description>Recent content on Ong Tho 74</description>
+    <title>Posts on Ong Tho 74</title>
+    <link>http://ongtho74.com/posts/</link>
+    <description>Recent content in Posts on Ong Tho 74</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Nov 2019 21:37:30 -0800</lastBuildDate>
     
-	<atom:link href="http://ongtho74.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ongtho74.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
